@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1115a774d8380242850e9620af8c58e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164810
+  packageName: 2D Robots Character & Animations
+  packageVersion: 1.0
+  assetPath: Assets/2D Robots Character & Animations/Animations/Robot_2/Robot_2.controller
+  uploadId: 357794

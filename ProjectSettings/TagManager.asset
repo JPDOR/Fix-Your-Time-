@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 105846281
+    locked: 0
+  - name: Clock on wall
+    uniqueID: 87327421
+    locked: 0
+  - name: Player
+    uniqueID: 1190901531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Window Pop up
+    uniqueID: 2157248303
+    locked: 0
+  m_RenderingLayers:
+  - Default

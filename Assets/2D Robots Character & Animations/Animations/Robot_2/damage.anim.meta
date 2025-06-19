@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8ebba90832b346499b484b10e9aa268
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164810
+  packageName: 2D Robots Character & Animations
+  packageVersion: 1.0
+  assetPath: Assets/2D Robots Character & Animations/Animations/Robot_2/damage.anim
+  uploadId: 357794
