@@ -1,5 +1,7 @@
 -Fix Your Time!
 
+[click here to play on unity play](https://play.unity.com/pt/games/03093473-8b9e-4ad4-b620-c2abc4adf67d/fix-your-time)
+
 Fix Your Time! is an educational game developed in Unity with the goal of teaching, in a visual and practical way, how the Cristian's algorithm works — a method used for clock synchronization in distributed systems.
 
 -Purpose
